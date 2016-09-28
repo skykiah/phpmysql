@@ -1,0 +1,11 @@
+/*
+* @Author: likai
+* @Date:   2016-08-15 02:50:32
+* @Last Modified by:   likai
+* @Last Modified time: 2016-08-15 02:54:06
+*/
+p {
+	font-size: 10;
+	background-color: red;
+	color: $fff;
+}
